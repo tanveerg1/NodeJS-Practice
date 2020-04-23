@@ -1,0 +1,40 @@
+1.      Read a file, split them and create them as multiple part files which carry 10 lines and go by their index order.
+2.      Extract the contents of a Website URL and print them.
+3.      Create a simple website using express.
+4.      Create a simple REST API for hosting customer data on any simple database or a file system folder.
+5.      GET customer (retrieve, search)
+6.      POST customer (insert)
+7.      PUT customer (update)
+8.      PATCH customer (alter a particular field)
+9.      Read a file, split them and create them as multiple part files which carry 10 lines and go by their index order.
+10.     Extract the contents of a Website URL and print them.
+11.     Create a simple website using express.
+12.     Create a simple REST API for hosting customer data on any simple database or a file system folder.
+13.     GET customer (retrieve, search)
+14.     POST customer (insert)
+15.     PUT customer (update)
+16.     PATCH customer (alter a particular field)v
+17.     Read a file, split them and create them as multiple part files which carry 10 lines and go by their index order.
+18.     Extract the contents of a Website URL and print them.
+19.     Create a simple website using express.
+20.     Create a simple REST API for hosting customer data on any simple database or a file system folder.
+a.      GET customer (retrieve, search)
+b.      POST customer (insert)
+c.      PUT customer (update)
+d.      PATCH customer (alter a particular field)
+a.      Read a file, split them and create them as multiple part files which carry 10 lines and go by their index order.
+b.      Extract the contents of a Website URL and print them.
+5)      Create a simple website using express.
+6)      Create a simple REST API for hosting customer data on any simple database or a file system folder.
+a.      GET customer (retrieve, search)
+b.      POST customer (insert)
+c.      PUT customer (update)
+d.      PATCH customer (alter a particular field)
+a.      Read a file, split them and create them as multiple part files which carry 10 lines and go by their index order.
+b.      Extract the contents of a Website URL and print them.
+5)      Create a simple website using express.
+6)      Create a simple REST API for hosting customer data on any simple database or a file system folder.
+a.      GET customer (retrieve, search)
+b.      POST customer (insert)
+c.      PUT customer (update)
+d.      PATCH customer (alter a particular field)
